@@ -1,2 +1,2 @@
-alx-system_engineering-devop 
-README
+alx-system_engineering-devop\n 
+all information about this repo
