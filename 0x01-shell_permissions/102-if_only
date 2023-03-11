@@ -1,2 +1,2 @@
 #!/bin/bash
-if [[ stat -c '%U' hello  -eq "guillaume" ]] sudo chown betty hello fi 
+if [ stat '%U' hello == "guillaume" ] then sudo chown betty hello fi
