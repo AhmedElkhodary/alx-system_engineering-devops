@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ stat '%U' hello == "guillaume" ] then sudo chown betty hello fi
+chown --from=guillaume betty hello
